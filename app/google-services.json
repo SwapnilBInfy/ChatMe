@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143791567306",
+    "firebase_url": "https://chatme-1c341.firebaseio.com",
+    "project_id": "chatme-1c341",
+    "storage_bucket": "chatme-1c341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143791567306:android:4fb37d5a9f368b15",
+        "android_client_info": {
+          "package_name": "com.example.swapnilbasu.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143791567306-0osu6pv87llorqfhkuarn6pg553sf43q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJO4CgqANAqXXIi56c4ho9K_u35_u2GF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
